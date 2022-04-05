@@ -1,0 +1,4 @@
+VOS Resolusi
+- Konsistensi pada HTML, CSS, Webdesign, Flexbox, CSS Grid, Sass, Javascript, Github
+- Pembuatan Software dengan platform Mobile Version Android 
+- Publishing ke Google Playstore
